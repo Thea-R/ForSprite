@@ -23,13 +23,14 @@
 
 #### Solved
 
-~~A	Pretty Matrix（水）~~
-B	Liblume
-~~C	Mergeable Stack（模拟链表）~~
-D	RAID-ZOJ
-E	Crosses Puzzles
-~~<u>**F	Schrödinger's Knapsack（DP）**</u>~~
-~~G	Traffic Light（BFS）~~
-H	Boolean Expression
-I	Honorifics
-~~J	PPAP（水）~~
+- [x] A	Pretty Matrix（水）
+- [ ] B	Liblume
+- [x] C	Mergeable Stack（模拟链表）
+- [ ] D	RAID-ZOJ
+- [ ] E	Crosses Puzzles
+- [x] <u>**F	Schrödinger's Knapsack（DP）**</u>
+- [ ] G	Traffic Light（BFS）
+- [ ] H	Boolean Expression
+- [ ] I	Honorifics
+- [x] J	PPAP（水）
+
