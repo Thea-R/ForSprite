@@ -1,7 +1,7 @@
 |                                  | 任绍林     | 冯雁浩     | 肖高飞     |
 | -------------------------------- | ---------- | ---------- | ---------- |
 | 网络流、匹配问题                 | unfinished | unfinished | unfinished |
-| 2-sat                            | unfinished |            |            |
+| 2-sat                            | √ |            |            |
 | 连通性                           |            | unfinished | unfinished |
 | 树链剖分                         | unfinished | unfinished |            |
 | 生成树系列                       | unfinished | unfinished | unfinished |
