@@ -4,7 +4,7 @@
 | 2-sat                            | √ |            |            |
 | 连通性                           |            | unfinished | unfinished |
 | 树链剖分                         | unfinished | unfinished |            |
-| 生成树系列                       | unfinished | unfinished | unfinished |
+| 生成树系列                       | √ | unfinished | unfinished |
 | 最短路系列（差分约束）           | unfinished | unfinished | unfinished |
 | 最小树形图                       |            | unfinished | unfinished |
 | 动态树                           | unfinished | unfinished |            |
